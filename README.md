@@ -10,7 +10,14 @@ The final recommendations were based on station traffic, stations in high income
 
 [Data Visualization](https://github.com/Neda-Sal/MTA_turnstile_project/blob/master/Data%20Visuals%20MTA.ipynb)
 
+# IRS Individal Tax Income Data
+Laveraged IRS Tax Income by Zipcode data to dallocate the subway stations in New York City in the most profitable areas, where people is also more likely to donate. This to help allocate the street team of a non-profit organization in the subway stations where they can reach people who would attend to its gala and donate. 
 
+[Income by zipcodes](https://github.com/Laura-Urdapilleta/MTA_turnstile_project/blob/master/Project1_Income_Data.ipynb)
+
+[Charitable Contribution by zipcode](https://github.com/Neda-Sal/MTA_turnstile_project/blob/master/Project1_Income_Data.ipynb)
+
+# Presentation
 
 [Final Presentation](https://github.com/Neda-Sal/MTA_turnstile_project/blob/master/Metis%20Project%201_%20MTA%20subway%20data.pdf)
 
