@@ -17,6 +17,13 @@ Laveraged IRS Tax Income by Zipcode data to dallocate the subway stations in New
 
 [Charitable Contribution by zipcode](https://github.com/Neda-Sal/MTA_turnstile_project/blob/master/Project1_Income_Data.ipynb)
 
+# Map/Location Materials
+
+[Lat/Lon by zipcodes](https://github.com/Neda-Sal/MTA_turnstile_project/blob/master/Zip%20codes.ipynb)
+
+[Map Generating](https://github.com/Neda-Sal/MTA_turnstile_project/blob/master/Plotly%20Map.ipynb)
+
+
 # Presentation
 
 [Final Presentation](https://github.com/Neda-Sal/MTA_turnstile_project/blob/master/Metis%20Project%201_%20MTA%20subway%20data.pdf)
